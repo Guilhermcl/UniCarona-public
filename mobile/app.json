@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "UniCarona",
+    "slug": "unicarona",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1D9E75"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.tcc.unicarona"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
